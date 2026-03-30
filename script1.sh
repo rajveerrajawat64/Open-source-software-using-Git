@@ -3,6 +3,7 @@
 
 STUDENT_NAME="Rajveer singh"
 SOFTWARE_CHOICE="Git"
+current_Date="31/03/2026"
 
 KERNEL=$(uname -r)
 USER_NAME=$(whoami)
@@ -18,5 +19,5 @@ echo "Kernel  : $KERNEL"
 echo "User    : $USER_NAME"
 echo "Uptime  : $UPTIME"
 echo "Distro  : $DISTRO"
-echo "Date    : $DATE"
+echo "Date    : $current_DATE"
 echo "License : Linux is typically licensed under GPL"
