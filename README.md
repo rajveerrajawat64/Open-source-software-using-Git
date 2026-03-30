@@ -14,7 +14,7 @@ DISTRO=$(grep '^PRETTY_NAME' /etc/os-release | cut -d= -f2 | tr -d '"')
 USER_NAME=$(whoami)
 HOME_DIR=$HOME
 UPTIME=$(uptime -p)
-CURRENT_DATE=$(30/03/2026)
+CURRENT_DATE=$(31/03/2026)
 
 # Display 
 echo ""
