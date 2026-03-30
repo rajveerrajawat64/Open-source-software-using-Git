@@ -1,5 +1,5 @@
 # Open-source-software-using-Git
-it uses Git v2 to run 5 linux scripts
+it uses Git liscense GPLv2 to run 5 linux scripts
 #!/bin/bash
 # Script 1: System Identity Report
 # Author: Rajveer Singh | Course: Open Source Software
